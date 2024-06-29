@@ -16,3 +16,5 @@ Neste projeto, estamos construindo um credit scoring para cartão de crédito, e
 - **Aplicação Web:** Desenvolvemos uma aplicação web utilizando Streamlit para facilitar a demonstração e uso dos modelos. A aplicação permite carregar arquivos CSV ou FTR.
 
 ![Captura de Tela (111)](https://github.com/Bruxteclas/Credit_Scoring/assets/144251717/f5a89a7d-6d16-4985-8b01-5b89078509fd)
+
+![Captura de Tela (112)](https://github.com/Bruxteclas/Credit_Scoring/assets/144251717/5b57c41f-dbaf-49e9-833d-9e39a0323c10)
